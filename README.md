@@ -6,6 +6,8 @@ Penelitian ini bertujuan untuk mengembangkan model klasifikasi gambar yang efisi
 - `KLASIFIKASI_GAMBAR_TRIRAMDHANY.ipynb`: Direktori yang berisi notebook Jupyter untuk Model Klasifikasi Gambar.
 - `requirements.txt`: Daftar dependensi Python yang diperlukan untuk menjalankan proyek.
 - `README.md`: Dokumentasi proyek ini.
+- 'Save Model' : for deployment
+  
 
 ## Installation
 1. Clone repositori ini ke mesin lokal Anda:
